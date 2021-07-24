@@ -1,0 +1,6 @@
+#python runtime files
+pyenv/
+__pycache__/
+
+#secrets 
+app.yaml
